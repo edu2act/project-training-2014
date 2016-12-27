@@ -1,18 +1,18 @@
-#2014¼¶Java·½ÏòÊµÑµÏîÄ¿Õ¹Ê¾
+#2014çº§Javaæ–¹å‘å®è®­é¡¹ç›®å±•ç¤º
 ---------
-### ÏîÄ¿£ºXXXXX
-#### ÏîÄ¿³ÉÔ±
-* ÕÅÈı(ÏîÄ¿¾­Àí) <xxxxxxx@gmail.com>
-* ÀîËÄ(²úÆ·¾­Àí) <xxxxxxx@gmail.com>
-* ÍõÎå(¿ª·¢¹¤³ÌÊ¦) <xxxxxxx@gmail.com>
+### é¡¹ç›®ï¼šXXXXX
+#### é¡¹ç›®æˆå‘˜
+* å¼ ä¸‰(é¡¹ç›®ç»ç†) <xxxxxxx@gmail.com>
+* æå››(äº§å“ç»ç†) <xxxxxxx@gmail.com>
+* ç‹äº”(å¼€å‘å·¥ç¨‹å¸ˆ) <xxxxxxx@gmail.com>
 
-#### ÏîÄ¿¼ò½é
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX¡£
+#### é¡¹ç›®ç®€ä»‹
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXã€‚
 
-#### ÔËĞĞĞ§¹û
-![ABC](http://www.baidu.com/img/bdlogo.gif) ![ABC](http://www.baidu.com/img/bdlogo.gif) 
-![ABC](http://www.baidu.com/img/bdlogo.gif) ![ABC](http://www.baidu.com/img/bdlogo.gif) 
-![ABC](http://www.baidu.com/img/bdlogo.gif) ![ABC](http://www.baidu.com/img/bdlogo.gif) 
+#### è¿è¡Œæ•ˆæœ
+![ABC](http://www.baidu.com/img/bdlogo.gif)  ![ABC](http://www.baidu.com/img/bdlogo.gif) 
+![ABC](http://www.baidu.com/img/bdlogo.gif)  ![ABC](http://www.baidu.com/img/bdlogo.gif) 
+![ABC](http://www.baidu.com/img/bdlogo.gif)  ![ABC](http://www.baidu.com/img/bdlogo.gif) 
 
 
 ----------
