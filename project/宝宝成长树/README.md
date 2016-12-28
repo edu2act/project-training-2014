@@ -1,6 +1,6 @@
 #宝宝成长树
 
-* [Github](https://github.com/lizongyuyu/BabyGrowthRecord) 
+* [Github](https://github.com/lizongyuyu/BabyGrowthRecord/tree/develop) 
 * [HostedRedmine](http://www.hostedredmine.com/projects/baby_growth_record/wiki)
 
 ### 项目简介

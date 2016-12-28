@@ -25,3 +25,9 @@
 <img src="./image/宝宝成长树/1.png" width=200 height=370 />
 <img src="./image/宝宝成长树/5.png" width=200 height=370 />
 <img src="./image/宝宝成长树/6.png" width=200 height=370 />
+
+### 项目：[校园兼职](./project/校园兼职/README.md) 
+
+<img src="./image/校园兼职/1.png" width=200 height=370 />
+<img src="./image/校园兼职/14.png" width=200 height=370 />
+<img src="./image/校园兼职/16.png" width=200 height=370 />
