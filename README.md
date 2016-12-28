@@ -1,6 +1,6 @@
 #2014级Java方向实训项目展示
 
-- [Java与移动智能设备方向](#Java与移动智能设备方向)
+- [Java与移动智能设备开发方向](#Java与移动智能设备开发方向)
 	- [校园兼职](#项目校园兼职)
 	- [驯鹿公交](#项目驯鹿公交)
 	- [实时聊天\(啾啾\)](#项目实时聊天啾啾)
@@ -8,7 +8,10 @@
 	- [校园兼职](#项目校园兼职)
 	- [随手记](#项目随手记)
 
-## Java与移动智能设备方向
+- [Java与大数据分析方向](#Java与大数据分析方向)
+	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
+	
+## Java与移动智能设备开发方向
 
 ### 项目：[岛买岛卖](./project/岛买岛卖/README.md) 
 
@@ -45,3 +48,11 @@
 <img src="./image/随手记/1.jpg" width=200 height=370 />
 <img src="./image/随手记/5.jpg" width=200 height=370 />
 <img src="./image/随手记/9.jpg" width=200 height=370 />
+
+## Java与大数据分析方向
+
+### 项目：[小蜜蜂家教平台](./project/小蜜蜂家教平台/README.md) 
+
+<img src="./image/小蜜蜂家教平台/家长登录成功页.png" width=320 height=270 />
+<img src="./image/小蜜蜂家教平台/职位列表页.png" width=320 height=270 />
+<img src="./image/小蜜蜂家教平台/职位详情页.png" width=320 height=270 />
