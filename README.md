@@ -34,16 +34,17 @@
     * Github : [https://github.com/suncheng2017](https://github.com/suncheng2017)
 
 #### 运行效果
-<img src="./image/岛买岛卖/1.png" width=260 height=400 />
-<img src="./image/岛买岛卖/2.png" width=260 height=400 />
-<img src="./image/岛买岛卖/3.png" width=260 height=400 />
+<img src="./image/岛买岛卖/1.png" width=250 height=400 />  
+<img src="./image/岛买岛卖/2.png" width=250 height=400 />  
+<img src="./image/岛买岛卖/3.png" width=250 height=400 />
 
-![运行效果](./image/岛买岛卖/1.png =260x400)  
-![运行效果](./image/岛买岛卖/2.png =260x400)  
-![运行效果](./image/岛买岛卖/3.png =260x400)
+<img src="./image/岛买岛卖/4.png" width=250 height=400 />
+<img src="./image/岛买岛卖/5.png" width=250 height=400 />
+<img src="./image/岛买岛卖/6.png" width=250 height=400 />
 
-![运行效果](./image/岛买岛卖/4.png)  ![运行效果](./image/岛买岛卖/5.png)  ![运行效果](./image/岛买岛卖/6.png)
+<img src="./image/岛买岛卖/7.png" width=250 height=400 />
+<img src="./image/岛买岛卖/8.png" width=250 height=400 />
+<img src="./image/岛买岛卖/9.png" width=250 height=400 />
 
-![运行效果](./image/岛买岛卖/7.png)  ![运行效果](./image/岛买岛卖/8.png)  ![运行效果](./image/岛买岛卖/9.png)
-
-![运行效果](./image/岛买岛卖/10.png)  ![运行效果](./image/岛买岛卖/11.png)
+<img src="./image/岛买岛卖/10.png" width=250 height=400 />
+<img src="./image/岛买岛卖/11.png" width=250 height=400 />
