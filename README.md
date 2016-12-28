@@ -34,7 +34,9 @@
     * Github : [https://github.com/suncheng2017](https://github.com/suncheng2017)
 
 #### 运行效果
-![运行效果](./image/岛买岛卖/1.png)  ![运行效果](./image/岛买岛卖/2.png)  ![运行效果](./image/岛买岛卖/3.png)
+![运行效果](./image/岛买岛卖/1.png =300*600)  
+![运行效果](./image/岛买岛卖/2.png =300*600)  
+![运行效果](./image/岛买岛卖/3.png =300*600)
 
 ![运行效果](./image/岛买岛卖/4.png)  ![运行效果](./image/岛买岛卖/5.png)  ![运行效果](./image/岛买岛卖/6.png)
 
