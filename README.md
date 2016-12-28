@@ -6,6 +6,7 @@
 	- [实时聊天\(啾啾\)](#项目实时聊天啾啾)
 	- [宝宝成长树](#项目宝宝成长树)
 	- [校园兼职](#项目校园兼职)
+	- [随手记](#项目随手记)
 
 ## Java与移动智能设备方向
 
@@ -38,3 +39,9 @@
 <img src="./image/校园兼职/1.png" width=200 height=370 />
 <img src="./image/校园兼职/14.png" width=200 height=370 />
 <img src="./image/校园兼职/16.png" width=200 height=370 />
+
+### 项目：[随手记](./project/随手记/README.md) 
+
+<img src="./image/随手记/1.png" width=200 height=370 />
+<img src="./image/随手记/5.png" width=200 height=370 />
+<img src="./image/随手记/9.png" width=200 height=370 />
