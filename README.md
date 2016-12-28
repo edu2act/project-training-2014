@@ -42,6 +42,6 @@
 
 ### 项目：[随手记](./project/随手记/README.md) 
 
-<img src="./image/随手记/1.png" width=200 height=370 />
-<img src="./image/随手记/5.png" width=200 height=370 />
-<img src="./image/随手记/9.png" width=200 height=370 />
+<img src="./image/随手记/1.jpg" width=200 height=370 />
+<img src="./image/随手记/5.jpg" width=200 height=370 />
+<img src="./image/随手记/9.jpg" width=200 height=370 />

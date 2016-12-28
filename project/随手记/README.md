@@ -26,21 +26,21 @@
     * Github : [https://github.com/jry1995](https://github.com/jry1995)	
 	
 ### 运行效果
-<img src="../../image/随手记/1.png" width=250 height=400 />
-<img src="../../image/随手记/2.png" width=250 height=400 />
-<img src="../../image/随手记/3.png" width=250 height=400 />
+<img src="../../image/随手记/1.jpg" width=250 height=400 />
+<img src="../../image/随手记/2.jpg" width=250 height=400 />
+<img src="../../image/随手记/3.jpg" width=250 height=400 />
 
-<img src="../../image/随手记/4.png" width=250 height=400 />
-<img src="../../image/随手记/5.png" width=250 height=400 />
-<img src="../../image/随手记/6.png" width=250 height=400 />
+<img src="../../image/随手记/4.jpg" width=250 height=400 />
+<img src="../../image/随手记/5.jpg" width=250 height=400 />
+<img src="../../image/随手记/6.jpg" width=250 height=400 />
 
-<img src="../../image/随手记/7.png" width=250 height=400 />
-<img src="../../image/随手记/8.png" width=250 height=400 />
-<img src="../../image/随手记/9.png" width=250 height=400 />
+<img src="../../image/随手记/7.jpg" width=250 height=400 />
+<img src="../../image/随手记/8.jpg" width=250 height=400 />
+<img src="../../image/随手记/9.jpg" width=250 height=400 />
 
-<img src="../../image/随手记/10.png" width=250 height=400 />
-<img src="../../image/随手记/11.png" width=250 height=400 />
-<img src="../../image/随手记/12.png" width=250 height=400 />
+<img src="../../image/随手记/10.jpg" width=250 height=400 />
+<img src="../../image/随手记/11.jpg" width=250 height=400 />
+<img src="../../image/随手记/12.jpg" width=250 height=400 />
 
-<img src="../../image/随手记/13.png" width=250 height=400 />
-<img src="../../image/随手记/14.png" width=250 height=400 />
+<img src="../../image/随手记/13.jpg" width=250 height=400 />
+<img src="../../image/随手记/14.jpg" width=250 height=400 />
