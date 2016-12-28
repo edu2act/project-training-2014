@@ -14,3 +14,9 @@
 <img src="./image/驯鹿公交/3.png" width=200 height=370 />
 <img src="./image/驯鹿公交/4.png" width=200 height=370 />
 
+### 项目：[实时聊天(啾啾)](./project/实时聊天\(啾啾\)/README.md) 
+
+<img src="./image/实时聊天(啾啾)/4.png" width=200 height=370 />
+<img src="./image/实时聊天(啾啾)/6.png" width=200 height=370 />
+<img src="./image/实时聊天(啾啾)/8.png" width=200 height=370 />
+
