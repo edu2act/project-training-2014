@@ -1,7 +1,7 @@
 #校园兼职
 
-* Github [客户端](https://github.com/xujihui/IslandTrading) 
-* Github [后台客户端](https://github.com/xujihui/IslandTrading) 
+* Github [客户端](https://github.com/Leejikun/campus-part-time) 
+* Github [后台客户端](https://github.com/Leejikun/houtai) 
 * [HostedRedmine](http://www.hostedredmine.com/projects/campus-part-time/wiki)
 
 ### 项目简介
