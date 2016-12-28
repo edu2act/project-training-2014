@@ -44,4 +44,4 @@
 <img src="../../image/岛买岛卖/9.png" width=250 height=400 />
 
 <img src="../../image/岛买岛卖/10.png" width=250 height=400 />
-<img src="../../image/岛买岛卖/11.png" width=400 height=250 />
+<img src="../../image/岛买岛卖/11.png" width=250 height=400 />

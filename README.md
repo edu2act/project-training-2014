@@ -14,7 +14,7 @@
 
 <img src="./image/岛买岛卖/4.png" width=200 height=370 />
 <img src="./image/岛买岛卖/5.png" width=200 height=370 />
-<img src="./image/岛买岛卖/11.png" width=370 height=200 />
+<img src="./image/岛买岛卖/11.png" width=200 height=370 />
 
 ### 项目：[驯鹿公交](./project/驯鹿公交/README.md) 
 
