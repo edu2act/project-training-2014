@@ -11,23 +11,23 @@
 ### 项目成员
 
 * 李昕 (项目经理、开发工程师) 
-    * Email: <00000@qq.com>
+    * Email: <454849455@qq.com>
     * Github : [https://github.com/LixinCNN](https://github.com/LixinCNN)
-* 李帅 (产品经理) 
-    * Email: <00000@qq.com>
-    * Github : [https://github.com/lishuai00](https://github.com/lishuai00)
 * 张佳明 (开发工程师)
-    * Email: <00000@qq.com>
+    * Email: <411578999@qq.com>
     * Github : [https://github.com/2236631496](https://github.com/2236631496)
 * 刘博 (UI设计、测试工程师)
-    * Email: <00000@qq.com>
+    * Email: <525114757@qq.com>
     * Github : [https://github.com/androidboom](https://github.com/androidboom)
-* 邢彦纳 (UI设计师)
-    * Email: <00000@qq.com>
+* 邢彦纳 (UI设计)
+    * Email: <564692688@qq.com>
     * Github : [https://github.com/xingyanna](https://github.com/xingyanna)
 * 刘振 (开发工程师)
-    * Email: <00000@q.com>
+    * Email: <838601458@q.com>
     * Github : [https://github.com/liuzhen001](https://github.com/liuzhen001)
+* 李帅 (产品经理) 
+    * Email: <1247611843@qq.com>
+    * Github : [https://github.com/lishuai00](https://github.com/lishuai00)
 
 ### 运行效果
 <img src="../../image/实时聊天(啾啾)/1.png" width=250 height=400 />
