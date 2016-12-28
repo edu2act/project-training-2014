@@ -7,9 +7,9 @@
 * [Github](https://github.com/xujihui/IslandTrading) 
 * [HostedRedmine](http://www.hostedredmine.com/projects/island/wiki)
 
-<img src="./image/岛买岛卖/4.png" width=250 height=400 />
-<img src="./image/岛买岛卖/5.png" width=250 height=400 />
+<img src="./image/岛买岛卖/4.png" width=200 height=370 />
+<img src="./image/岛买岛卖/5.png" width=200 height=370 />
 
-<img src="./image/岛买岛卖/11.png" width=400 height=250 />
+<img src="./image/岛买岛卖/11.png" width=370 height=200 />
 
 ---------
