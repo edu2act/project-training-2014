@@ -53,6 +53,6 @@
 
 ### 项目：[小蜜蜂家教平台](./project/小蜜蜂家教平台/README.md) 
 
-<img src="./image/小蜜蜂家教平台/家长登录成功页.png" width=380 height=160 />
-<img src="./image/小蜜蜂家教平台/职位列表页.png" width=380 height=160 />
-<img src="./image/小蜜蜂家教平台/职位详情页.png" width=380 height=160 />
+<img src="./image/小蜜蜂家教平台/家长登录成功页.png" width=280 height=160 />
+<img src="./image/小蜜蜂家教平台/职位列表页.png" width=280 height=160 />
+<img src="./image/小蜜蜂家教平台/职位详情页.png" width=280 height=160 />

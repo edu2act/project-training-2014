@@ -34,7 +34,7 @@ Web2.0大背景下，我们的网站不仅可以发布信息，更利用评价�
 ### 项目成员
 
 * 王子凡 (项目经理) 
-    * Email: <1039738015@qq.com>
+    * Email: <1039728015@qq.com>
     * Github : [https://github.com/wangzifan2016](https://github.com/wangzifan2016)
 * 郭爽 (产品经理) 
     * Email: <501812332@qq.com>
@@ -53,27 +53,27 @@ Web2.0大背景下，我们的网站不仅可以发布信息，更利用评价�
     * Github : [https://github.com/cheng0chun](https://github.com/cheng0chun)	
 	
 ### 运行效果
-<img src="../../image/小蜜蜂家教平台/登录页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/注册页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/家长登录成功页.png" width=380 height=160 />
+<img src="../../image/小蜜蜂家教平台/登录页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/注册页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/家长登录成功页.png" width=280 height=160 />
 
-<img src="../../image/小蜜蜂家教平台/家长发出邀请页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/简历通过页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/教员登录成功页.png" width=380 height=160 />
+<img src="../../image/小蜜蜂家教平台/家长发出邀请页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/简历通过页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/教员登录成功页.png" width=280 height=160 />
 
-<img src="../../image/小蜜蜂家教平台/教员列表页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/教员详情页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/浏览简历页.png" width=380 height=160 />
+<img src="../../image/小蜜蜂家教平台/教员列表页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/教员详情页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/浏览简历页.png" width=280 height=160 />
 
-<img src="../../image/小蜜蜂家教平台/收到简历页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/收到邀请页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/投递简历页.png" width=380 height=160 />
+<img src="../../image/小蜜蜂家教平台/收到简历页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/收到邀请页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/投递简历页.png" width=280 height=160 />
 
-<img src="../../image/小蜜蜂家教平台/未登录主页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/我的简历页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/用户认证页.png" width=380 height=160 />
+<img src="../../image/小蜜蜂家教平台/未登录主页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/我的简历页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/用户认证页.png" width=280 height=160 />
 
-<img src="../../image/小蜜蜂家教平台/发布职位页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/职位列表页.png" width=380 height=160 />
-<img src="../../image/小蜜蜂家教平台/职位详情页.png" width=380 height=160 />
+<img src="../../image/小蜜蜂家教平台/发布职位页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/职位列表页.png" width=280 height=160 />
+<img src="../../image/小蜜蜂家教平台/职位详情页.png" width=280 height=160 />
 
