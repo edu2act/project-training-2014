@@ -12,6 +12,7 @@
 
 - [Java与大数据分析方向](#Java与大数据分析方向)
 	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
+	- [校园超市商品管理系统](#项目校园超市商品管理系统)
 	
 ## Java与移动智能设备开发方向
 
@@ -70,3 +71,9 @@
 <img src="./image/小蜜蜂家教平台/家长登录成功页.png" width=280 height=160 />
 <img src="./image/小蜜蜂家教平台/职位列表页.png" width=280 height=160 />
 <img src="./image/小蜜蜂家教平台/职位详情页.png" width=280 height=160 />
+
+### 项目：[校园超市商品管理系统](./project/校园超市商品管理系统/README.md) 
+
+<img src="./image/校园超市商品管理系统/1.png" width=280 height=160 />
+<img src="./image/校园超市商品管理系统/2.png" width=280 height=160 />
+<img src="./image/校园超市商品管理系统/5.png" width=280 height=160 />
