@@ -9,7 +9,8 @@
 	- [随手记](#项目随手记)
 	- [师大旅友团](#项目师大旅友团)
 	- [小菜叨](#项目小菜叨)
-
+	- [Goaaha](#项目goaaha)
+	
 - [Java与大数据分析方向](#Java与大数据分析方向)
 	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
 	- [校园超市商品管理系统](#项目校园超市商品管理系统)
@@ -63,6 +64,12 @@
 <img src="./image/小菜叨/1.png" width=200 height=350 />
 <img src="./image/小菜叨/6.png" width=200 height=350 />
 <img src="./image/小菜叨/7.png" width=200 height=350 />
+
+### 项目：[Goaaha](./project/Goaaha/README.md) 
+
+<img src="./image/Goaaha/2.jpeg" width=200 height=350 />
+<img src="./image/Goaaha/3.jpeg" width=200 height=350 />
+<img src="./image/Goaaha/9.jpeg" width=200 height=350 />
 
 ## Java与大数据分析方向
 
