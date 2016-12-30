@@ -33,7 +33,7 @@
     * Github : [https://github.com/yangyawang](https://github.com/yangyawang)
 
 
-### 运行效果
+### 运行效果(客户端)
 <img src="../../image/不等号/客户端/1.png" width=250 height=400 />
 <img src="../../image/不等号/客户端/2.png" width=250 height=400 />
 <img src="../../image/不等号/客户端/3.png" width=250 height=400 />
@@ -60,6 +60,8 @@
 
 <img src="../../image/不等号/客户端/19.png" width=250 height=400 />
 <img src="../../image/不等号/客户端/20.png" width=250 height=400 />
+
+### 运行效果(商家端)
 
 <img src="../../image/不等号/商家端/1.png" width=250 height=400 />
 <img src="../../image/不等号/商家端/2.png" width=250 height=400 />
