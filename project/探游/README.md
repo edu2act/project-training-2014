@@ -29,7 +29,7 @@
 
 * 白浩然 (项目经理、研发人员、开发工程师、测试工程师) 
     * Email: <Bai_Haoran@outlook.com>
-    * Github : [https://github.com/BaiHaoran](https://github.com/BaiHaoran)
+    * Github : [https://github.com/daoshengwanwu](https://github.com/daoshengwanwu)
 * 朱鑫 (研发人员、开发工程师、测试工程师) 
     * Email: <805268760@qq.com>
     * Github : [https://github.com/zhuxin1024](https://github.com/zhuxin1024)
