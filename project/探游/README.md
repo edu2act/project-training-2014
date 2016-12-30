@@ -1,69 +1,73 @@
-#校脸
+#探游
 
-* Github [客户端](https://github.com/yuanyin1995/FunOfSchool) 
-* Github [服务器端](https://github.com/Aiome/XiaoLian-server)
-* [HostedRedmine](http://www.hostedredmine.com/projects/school-face/wiki)
-* [界面原型](https://modao.cc/app/4WEKaxYJR9pbfvdyXIej3vWI2iafRBg)
+* [Github](https://github.com/SurfaceStrongestFaction/TourAssistant) 
+* [HostedRedmine](http://www.hostedredmine.com/projects/tour_assistant/wiki)
 
 ### 项目简介
 
-**校脸**APP是一款高校间线上线下旅游交友软件。
+**探游**App的介绍：探游是为了让用户出游变得更加的方便、更具有趣味性而开发的一款Android应用。
 
-用户可通过手机号与验证码注册，登陆后可进行的操作有：
+该软件中的功能可分为两大类， 第一大类的功能不需要用户登录， 而第二大类功能需要用户先登录才可以使用。
 
-* 修改个人资料
-* 发送出游邀请并按条件匹配导游
-* 接受或拒绝他人出游邀请
-* 与他人实时聊天
-* 查看地图景点覆盖物
-* 记录出游路径
-* 查看历史出游路径
-* 发表对本次出游高校及导游的评价
-* 查看他人对某高校或用户的评价
-* 发表评价后刮刮乐抽奖
-* 通过他人对自己的评价获得积分并兑换奖品
+第一大类功能有
+* 附近景区推荐（首页）
+* 景点详情介绍
+* 定位功能
+* 迷雾模式
+* 彩蛋模式
+
+第二大类功能有：登录之后（可以选择QQ登录或者邮箱注册后登录）
+* 创建队伍
+* 加入队伍（通过扫描二维码方式） 
+* 队伍内群聊天
+* 队员之间聊天
+* 队伍的成员之间可以共享位置
+
+登录之后第一大类中的功能亦可以使用
 
 ### 项目成员
 
-* 袁音 (项目经理) 
-    * Email: <805991134@qq.com>
-    * Github : [https://github.com/yuanyin1995](https://github.com/yuanyin1995)
-* 马红岩 (产品经理) 
-    * Email: <805991134@qq.com>
-    * Github : [https://github.com/Aiome](https://github.com/Aiome)
-* 庄楠 (UI设计、开发工程师) 
-    * Email: <805991134@qq.com>
-    * Github : [https://github.com/tobewithMayday](https://github.com/tobewithMayday)
-* 刘晔 (开发工程师) 
-    * Email: <805991134@qq.com>
-    * Github : [https://github.com/liuye326](https://github.com/liuye326)
-* 王丹宇 (	测试工程师) 
-    * Email: <805991134@qq.com>
-    * Github : [https://github.com/wangdanyu](https://github.com/wangdanyu)
+* 白浩然 (项目经理、研发人员、开发工程师、测试工程师) 
+    * Email: <Bai_Haoran@outlook.com>
+    * Github : [https://github.com/BaiHaoran](https://github.com/BaiHaoran)
+* 朱鑫 (研发人员、开发工程师、测试工程师) 
+    * Email: <805268760@qq.com>
+    * Github : [https://github.com/zhuxin1024](https://github.com/zhuxin1024)
+* 李阔 (研发人员、开发工程师、测试工程师) 
+    * Email: <982619692@qq.com>
+    * Github : [https://github.com/leekuo3](https://github.com/leekuo3)
+* 蒋胜达 (研发人员、开发工程师、测试工程师) 
+    * Email: <lilin.santa@gmail.com>
+    * Github : [https://github.com/SantaJiang](https://github.com/SantaJiang)
+* 申玥 (UI设计师、开发工程师、测试工程师) 
+    * Email: <1013250411@qq.com>
+    * Github : [https://github.com/shenyueyue](https://github.com/shenyueyue)
+* 蔡自欢 (UI设计师、开发工程师、测试工程师) 
+    * Email: <2511480600@qq.com>
+    * Github : [https://github.com/caizihuan](https://github.com/caizihuan)
+* 周秀雅 (UI设计师、开发工程师、测试工程师) 
+    * Email: <975935078@qq.com>
+    * Github : [https://github.com/zhouxiuya](https://github.com/zhouxiuya)
+* 王肖 (产品经理、开发工程师、测试工程师) 
+    * Email: <zko1021@foxmail.com>
+    * Github : [https://github.com/wangxiao1021](https://github.com/wangxiao1021)	
 	
 ### 运行效果
-<img src="../../image/校脸/1.jpg" width=250 height=400 />
-<img src="../../image/校脸/2.jpg" width=250 height=400 />
-<img src="../../image/校脸/3.jpg" width=250 height=400 />
+<img src="../../image/探游/1.png" width=250 height=400 />
+<img src="../../image/探游/2.png" width=250 height=400 />
+<img src="../../image/探游/3.png" width=250 height=400 />
 
-<img src="../../image/校脸/4.jpg" width=250 height=400 />
-<img src="../../image/校脸/5.jpg" width=250 height=400 />
-<img src="../../image/校脸/6.jpg" width=250 height=400 />
+<img src="../../image/探游/4.png" width=250 height=400 />
+<img src="../../image/探游/5.png" width=250 height=400 />
+<img src="../../image/探游/6.png" width=250 height=400 />
 
-<img src="../../image/校脸/7.jpg" width=250 height=400 />
-<img src="../../image/校脸/8.jpg" width=250 height=400 />
-<img src="../../image/校脸/9.jpg" width=250 height=400 />
+<img src="../../image/探游/7.png" width=250 height=400 />
+<img src="../../image/探游/8.png" width=250 height=400 />
+<img src="../../image/探游/9.png" width=250 height=400 />
 
-<img src="../../image/校脸/10.jpg" width=250 height=400 />
-<img src="../../image/校脸/11.jpg" width=250 height=400 />
-<img src="../../image/校脸/12.jpg" width=250 height=400 />
+<img src="../../image/探游/10.png" width=250 height=400 />
+<img src="../../image/探游/11.png" width=250 height=400 />
+<img src="../../image/探游/12.png" width=250 height=400 />
 
-<img src="../../image/校脸/13.jpg" width=250 height=400 />
-<img src="../../image/校脸/14.jpg" width=250 height=400 />
-<img src="../../image/校脸/15.jpg" width=250 height=400 />
-
-<img src="../../image/校脸/16.jpg" width=250 height=400 />
-<img src="../../image/校脸/17.jpg" width=250 height=400 />
-<img src="../../image/校脸/18.jpg" width=250 height=400 />
-
-<img src="../../image/校脸/19.jpg" width=250 height=400 />
+<img src="../../image/探游/13.png" width=250 height=400 />
+<img src="../../image/探游/14.png" width=250 height=400 />
