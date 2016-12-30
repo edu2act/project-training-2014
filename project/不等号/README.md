@@ -1,6 +1,6 @@
 #不等号
 
-* [Github](https://github.com/shihangqi/Project) 
+* [Github](https://github.com/shihangqi/new_project) 
 * [HostedRedmine](http://www.hostedredmine.com/projects/sign_of_inequality/wiki)
 
 ### 项目简介
