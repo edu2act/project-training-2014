@@ -14,20 +14,20 @@
 ### 项目成员
 
 * 郭可 (项目经理) 
-    * Email: <0000@qq.com>
-    * Github : []()
-* 岳雨萌 (开发工程师) 
-    * Email: <0000@qq.com>
-    * Github : []()
-* 张潇洁 (开发工程师) 
-    * Email: <0000@qq.com>
-    * Github : []()
+    * Email: <782980788@qq.com>
+    * Github : [https://github.com/GK782980788/](https://github.com/GK782980788/)
 * 岳伟玺 (开发工程师) 
-    * Email: <0000@qq.com>
-    * Github : []()
+    * Email: <625368420@qq.com>
+    * Github : [https://github.com/yvci](https://github.com/yvci)
+* 张潇洁 (开发工程师) 
+    * Email: <2832211842@qq.com>
+    * Github : [https://github.com/zhangxiaojieSQ](https://github.com/zhangxiaojieSQ)
+* 岳雨萌 (开发工程师) 
+    * Email: <2365560909@qq.com>
+    * Github : [https://github.com/roxy0515](https://github.com/roxy0515)
 * 黄秀贞 (开发工程师) 
-    * Email: <0000@qq.com>
-    * Github : []()
+    * Email: <1173592929@qq.com>
+    * Github : [https://github.com/SujeongHwang](https://github.com/SujeongHwang)
 	
 ### 运行效果
 <img src="../../image/基于微信的国际合作处服务系统/1.png" width=250 height=400 />
