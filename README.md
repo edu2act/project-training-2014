@@ -10,6 +10,7 @@
 	- [师大旅友团](#项目师大旅友团)
 	- [小菜叨](#项目小菜叨)
 	- [Goaaha](#项目goaaha)
+	- [画摄](#项目画摄)
 	
 - [Java与大数据分析方向](#Java与大数据分析方向)
 	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
@@ -70,6 +71,12 @@
 <img src="./image/Goaaha/2.jpeg" width=200 height=350 />
 <img src="./image/Goaaha/3.jpeg" width=200 height=350 />
 <img src="./image/Goaaha/9.jpeg" width=200 height=350 />
+
+### 项目：[画摄](./project/画摄/README.md) 
+
+<img src="./image/画摄/1.jpg" width=200 height=350 />
+<img src="./image/画摄/12.jpg" width=200 height=350 />
+<img src="./image/画摄/13.jpg" width=200 height=350 />
 
 ## Java与大数据分析方向
 
