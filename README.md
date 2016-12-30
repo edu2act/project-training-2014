@@ -29,6 +29,7 @@
 	- [河北师范大学试卷生成系统](#项目河北师范大学试卷生成系统)
 	- [巨人英语](#项目巨人英语)
 	- [乐乐猫儿童趣味编程学习网](#项目乐乐猫儿童趣味编程学习网)
+	- [米奥课堂](#项目米奥课堂)
 	
 ## Java与移动智能设备开发方向
 
@@ -162,6 +163,12 @@
 
 ### 项目：[乐乐猫儿童趣味编程学习网](./project/乐乐猫儿童趣味编程学习网/README.md) 
 
+<img src="./image/乐乐猫儿童趣味编程学习网/1.jpg" width=280 height=160 />
+<img src="./image/乐乐猫儿童趣味编程学习网/4.jpg" width=280 height=160 />
 <img src="./image/乐乐猫儿童趣味编程学习网/5.jpg" width=280 height=160 />
-<img src="./image/乐乐猫儿童趣味编程学习网/3.jpg" width=280 height=160 />
-<img src="./image/乐乐猫儿童趣味编程学习网/31.jpg" width=280 height=160 />
+
+### 项目：[米奥课堂](./project/米奥课堂/README.md) 
+
+<img src="./image/米奥课堂/1.png" width=280 height=160 />
+<img src="./image/米奥课堂/2.png" width=280 height=160 />
+<img src="./image/米奥课堂/3.png" width=280 height=160 />
