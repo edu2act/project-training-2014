@@ -14,6 +14,7 @@
 	- [师大轨迹](#项目师大轨迹)
 	- [不等号](#项目不等号)
 	- [食趣](#项目食趣)
+	- [生活百事通](#项目生活百事通)
 	
 - [Java与大数据分析方向](#java与大数据分析方向)
 	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
@@ -101,6 +102,12 @@
 <img src="./image/食趣/1.png" width=200 height=350 />
 <img src="./image/食趣/2.png" width=200 height=350 />
 <img src="./image/食趣/5.png" width=200 height=350 />
+
+### 项目：[生活百事通](./project/生活百事通/README.md) 
+
+<img src="./image/生活百事通/1.png" width=200 height=350 />
+<img src="./image/生活百事通/5.png" width=200 height=350 />
+<img src="./image/生活百事通/6.png" width=200 height=350 />
 
 ## Java与大数据分析方向
 
