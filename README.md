@@ -16,6 +16,7 @@
 - [Java与大数据分析方向](#java与大数据分析方向)
 	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
 	- [校园超市商品管理系统](#项目校园超市商品管理系统)
+	- [nullpointer](#项目nullpointer)
 	
 ## Java与移动智能设备开发方向
 
@@ -82,8 +83,8 @@
 ### 项目：[师大轨迹](./project/师大轨迹/README.md) 
 
 <img src="./image/师大轨迹/3.jpg" width=200 height=350 />
-<img src="./image/师大轨迹/21.png" width=200 height=350 />
-<img src="./image/师大轨迹/20.png" width=200 height=350 />
+<img src="./image/师大轨迹/21.jpg" width=200 height=350 />
+<img src="./image/师大轨迹/20.jpg" width=200 height=350 />
 
 ## Java与大数据分析方向
 
@@ -98,3 +99,9 @@
 <img src="./image/校园超市商品管理系统/1.png" width=280 height=160 />
 <img src="./image/校园超市商品管理系统/2.png" width=280 height=160 />
 <img src="./image/校园超市商品管理系统/5.png" width=280 height=160 />
+
+### 项目：[nullpointer](./project/nullpointer/README.md) 
+
+<img src="./image/nullpointer/1.png" width=280 height=160 />
+<img src="./image/nullpointer/2.png" width=280 height=160 />
+<img src="./image/nullpointer/5.png" width=280 height=160 />
