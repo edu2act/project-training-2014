@@ -75,8 +75,8 @@
 ### 项目：[画摄](./project/画摄/README.md) 
 
 <img src="./image/画摄/1.jpg" width=200 height=350 />
-<img src="./image/画摄/12.jpg" width=200 height=350 />
-<img src="./image/画摄/13.jpg" width=200 height=350 />
+<img src="./image/画摄/12.png" width=200 height=350 />
+<img src="./image/画摄/13.png" width=200 height=350 />
 
 ## Java与大数据分析方向
 

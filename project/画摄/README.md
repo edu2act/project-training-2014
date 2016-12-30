@@ -40,19 +40,19 @@
 
 ### 运行效果
 <img src="../../image/画摄/1.jpg" width=250 height=400 />
-<img src="../../image/画摄/2.jpg" width=250 height=400 />
-<img src="../../image/画摄/3.jpg" width=250 height=400 />
+<img src="../../image/画摄/2.png" width=250 height=400 />
+<img src="../../image/画摄/3.png" width=250 height=400 />
 
-<img src="../../image/画摄/4.jpg" width=250 height=400 />
-<img src="../../image/画摄/5.jpg" width=250 height=400 />
-<img src="../../image/画摄/6.jpg" width=250 height=400 />
+<img src="../../image/画摄/4.png" width=250 height=400 />
+<img src="../../image/画摄/5.png" width=250 height=400 />
+<img src="../../image/画摄/6.png" width=250 height=400 />
 
-<img src="../../image/画摄/7.jpg" width=250 height=400 />
-<img src="../../image/画摄/8.jpg" width=250 height=400 />
-<img src="../../image/画摄/9.jpg" width=250 height=400 />
+<img src="../../image/画摄/7.png" width=250 height=400 />
+<img src="../../image/画摄/8.png" width=250 height=400 />
+<img src="../../image/画摄/9.png" width=250 height=400 />
 
-<img src="../../image/画摄/10.jpg" width=250 height=400 />
-<img src="../../image/画摄/11.jpg" width=250 height=400 />
-<img src="../../image/画摄/12.jpg" width=250 height=400 />
+<img src="../../image/画摄/10.png" width=250 height=400 />
+<img src="../../image/画摄/11.png" width=250 height=400 />
+<img src="../../image/画摄/12.png" width=250 height=400 />
 
-<img src="../../image/画摄/13.jpg" width=250 height=400 />
+<img src="../../image/画摄/13.png" width=250 height=400 />
