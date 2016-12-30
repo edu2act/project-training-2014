@@ -1,6 +1,6 @@
 #2014级Java方向实训项目展示
 
-- [Java与移动智能设备开发方向](#Java与移动智能设备开发方向)
+- [Java与移动智能设备开发方向](#java与移动智能设备开发方向)
 	- [校园兼职](#项目校园兼职)
 	- [驯鹿公交](#项目驯鹿公交)
 	- [实时聊天\(啾啾\)](#项目实时聊天啾啾)
@@ -11,8 +11,9 @@
 	- [小菜叨](#项目小菜叨)
 	- [Goaaha](#项目goaaha)
 	- [画摄](#项目画摄)
+	- [师大轨迹](#项目师大轨迹)
 	
-- [Java与大数据分析方向](#Java与大数据分析方向)
+- [Java与大数据分析方向](#java与大数据分析方向)
 	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
 	- [校园超市商品管理系统](#项目校园超市商品管理系统)
 	
@@ -77,6 +78,12 @@
 <img src="./image/画摄/1.jpg" width=200 height=350 />
 <img src="./image/画摄/12.png" width=200 height=350 />
 <img src="./image/画摄/13.png" width=200 height=350 />
+
+### 项目：[师大轨迹](./project/师大轨迹/README.md) 
+
+<img src="./image/师大轨迹/3.jpg" width=200 height=350 />
+<img src="./image/师大轨迹/21.png" width=200 height=350 />
+<img src="./image/师大轨迹/20.png" width=200 height=350 />
 
 ## Java与大数据分析方向
 
