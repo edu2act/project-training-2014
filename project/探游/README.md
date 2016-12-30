@@ -42,28 +42,28 @@
     * Github : [https://github.com/wangdanyu](https://github.com/wangdanyu)
 	
 ### 运行效果
-<img src="../../image/校脸/1.png" width=250 height=400 />
-<img src="../../image/校脸/2.png" width=250 height=400 />
-<img src="../../image/校脸/3.png" width=250 height=400 />
+<img src="../../image/校脸/1.jpg" width=250 height=400 />
+<img src="../../image/校脸/2.jpg" width=250 height=400 />
+<img src="../../image/校脸/3.jpg" width=250 height=400 />
 
-<img src="../../image/校脸/4.png" width=250 height=400 />
-<img src="../../image/校脸/5.png" width=250 height=400 />
-<img src="../../image/校脸/6.png" width=250 height=400 />
+<img src="../../image/校脸/4.jpg" width=250 height=400 />
+<img src="../../image/校脸/5.jpg" width=250 height=400 />
+<img src="../../image/校脸/6.jpg" width=250 height=400 />
 
-<img src="../../image/校脸/7.png" width=250 height=400 />
-<img src="../../image/校脸/8.png" width=250 height=400 />
-<img src="../../image/校脸/9.png" width=250 height=400 />
+<img src="../../image/校脸/7.jpg" width=250 height=400 />
+<img src="../../image/校脸/8.jpg" width=250 height=400 />
+<img src="../../image/校脸/9.jpg" width=250 height=400 />
 
-<img src="../../image/校脸/10.png" width=250 height=400 />
-<img src="../../image/校脸/11.png" width=250 height=400 />
-<img src="../../image/校脸/12.png" width=250 height=400 />
+<img src="../../image/校脸/10.jpg" width=250 height=400 />
+<img src="../../image/校脸/11.jpg" width=250 height=400 />
+<img src="../../image/校脸/12.jpg" width=250 height=400 />
 
-<img src="../../image/校脸/13.png" width=250 height=400 />
-<img src="../../image/校脸/14.png" width=250 height=400 />
-<img src="../../image/校脸/15.png" width=250 height=400 />
+<img src="../../image/校脸/13.jpg" width=250 height=400 />
+<img src="../../image/校脸/14.jpg" width=250 height=400 />
+<img src="../../image/校脸/15.jpg" width=250 height=400 />
 
-<img src="../../image/校脸/16.png" width=250 height=400 />
-<img src="../../image/校脸/17.png" width=250 height=400 />
-<img src="../../image/校脸/18.png" width=250 height=400 />
+<img src="../../image/校脸/16.jpg" width=250 height=400 />
+<img src="../../image/校脸/17.jpg" width=250 height=400 />
+<img src="../../image/校脸/18.jpg" width=250 height=400 />
 
-<img src="../../image/校脸/19.png" width=250 height=400 />
+<img src="../../image/校脸/19.jpg" width=250 height=400 />
