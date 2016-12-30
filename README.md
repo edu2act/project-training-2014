@@ -116,9 +116,9 @@
 
 ### 项目：[校脸](./project/校脸/README.md) 
 
-<img src="./image/校脸/5.png" width=200 height=350 />
-<img src="./image/校脸/7.png" width=200 height=350 />
-<img src="./image/校脸/16.png" width=200 height=350 />
+<img src="./image/校脸/5.jpg" width=200 height=350 />
+<img src="./image/校脸/7.jpg" width=200 height=350 />
+<img src="./image/校脸/16.jpg" width=200 height=350 />
 
 ## Java与大数据分析方向
 
