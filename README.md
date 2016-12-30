@@ -12,6 +12,7 @@
 	- [Goaaha](#项目goaaha)
 	- [画摄](#项目画摄)
 	- [师大轨迹](#项目师大轨迹)
+	- [不等号](#项目不等号)
 	
 - [Java与大数据分析方向](#java与大数据分析方向)
 	- [小蜜蜂家教平台](#项目小蜜蜂家教平台)
@@ -87,6 +88,12 @@
 <img src="./image/师大轨迹/3.jpg" width=200 height=350 />
 <img src="./image/师大轨迹/21.jpg" width=200 height=350 />
 <img src="./image/师大轨迹/20.jpg" width=200 height=350 />
+
+### 项目：[不等号](./project/不等号/README.md) 
+
+<img src="./image/不等号/客户端/3.png" width=200 height=350 />
+<img src="./image/不等号/客户端/4.png" width=200 height=350 />
+<img src="./image/不等号/客户端/5.png" width=200 height=350 />
 
 ## Java与大数据分析方向
 
