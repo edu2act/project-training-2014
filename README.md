@@ -18,6 +18,7 @@
 	- [校园超市商品管理系统](#项目校园超市商品管理系统)
 	- [nullpointer](#项目nullpointer)
 	- [河北师范大学试卷生成系统](#项目河北师范大学试卷生成系统)
+	- [巨人英语](#项目巨人英语)
 	
 ## Java与移动智能设备开发方向
 
@@ -112,3 +113,9 @@
 <img src="./image/河北师范大学试卷生成系统/试卷列表界面.png" width=280 height=160 />
 <img src="./image/河北师范大学试卷生成系统/预览试卷界面.png" width=280 height=160 />
 <img src="./image/河北师范大学试卷生成系统/自动组卷界面.png" width=280 height=160 />
+
+### 项目：[巨人英语](./project/巨人英语/README.md) 
+
+<img src="./image/巨人英语/5.png" width=280 height=160 />
+<img src="./image/巨人英语/3.png" width=280 height=160 />
+<img src="./image/巨人英语/31.png" width=280 height=160 />
