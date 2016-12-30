@@ -32,6 +32,7 @@
 	- [米奥课堂](#项目米奥课堂)
 	- [基于微信的国际合作处服务系统](#项目基于微信的国际合作处服务系统)
 	- [推塘](#项目推塘)
+	- [公司POS系统](#项目公司POS系统)
 	
 ## Java与移动智能设备开发方向
 
@@ -186,3 +187,8 @@
 <img src="./image/推塘/6.jpg" width=280 height=160 />
 <img src="./image/推塘/1.png" width=280 height=160 />
 <img src="./image/推塘/2.jpg" width=280 height=160 />
+
+### 项目：[公司POS系统](./project/公司POS系统/README.md) 
+
+<img src="./image/公司POS系统/1.png" width=280 height=160 />
+<img src="./image/公司POS系统/2.png" width=280 height=160 />
