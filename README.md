@@ -129,8 +129,8 @@
 ### 项目：[探游](./project/探游/README.md) 
 
 <img src="./image/探游/1.png" width=200 height=350 />
-<img src="./image/探游/13.png" width=200 height=350 />
-<img src="./image/探游/14.png" width=200 height=350 />
+<img src="./image/探游/7.png" width=200 height=350 />
+<img src="./image/探游/16.jpg" width=200 height=350 />
 
 ## Java与大数据分析方向
 

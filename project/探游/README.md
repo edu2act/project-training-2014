@@ -62,12 +62,15 @@
 <img src="../../image/探游/6.png" width=250 height=400 />
 
 <img src="../../image/探游/7.png" width=250 height=400 />
-<img src="../../image/探游/8.png" width=250 height=400 />
-<img src="../../image/探游/9.png" width=250 height=400 />
+<img src="../../image/探游/8.jpg" width=250 height=400 />
+<img src="../../image/探游/9.jpg" width=250 height=400 />
 
-<img src="../../image/探游/10.png" width=250 height=400 />
-<img src="../../image/探游/11.png" width=250 height=400 />
-<img src="../../image/探游/12.png" width=250 height=400 />
+<img src="../../image/探游/10.jpg" width=250 height=400 />
+<img src="../../image/探游/11.jpg" width=250 height=400 />
+<img src="../../image/探游/12.jpg" width=250 height=400 />
 
-<img src="../../image/探游/13.png" width=250 height=400 />
-<img src="../../image/探游/14.png" width=250 height=400 />
+<img src="../../image/探游/13.jpg" width=250 height=400 />
+<img src="../../image/探游/14.jpg" width=250 height=400 />
+<img src="../../image/探游/15.jpg" width=250 height=400 />
+
+<img src="../../image/探游/16.jpg" width=250 height=400 />
