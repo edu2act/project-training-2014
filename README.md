@@ -28,6 +28,7 @@
 	- [nullpointer](#项目nullpointer)
 	- [河北师范大学试卷生成系统](#项目河北师范大学试卷生成系统)
 	- [巨人英语](#项目巨人英语)
+	- [乐乐猫儿童趣味编程学习网](#项目乐乐猫儿童趣味编程学习网)
 	
 ## Java与移动智能设备开发方向
 
@@ -158,3 +159,9 @@
 <img src="./image/巨人英语/5.png" width=280 height=160 />
 <img src="./image/巨人英语/3.png" width=280 height=160 />
 <img src="./image/巨人英语/31.png" width=280 height=160 />
+
+### 项目：[乐乐猫儿童趣味编程学习网](./project/乐乐猫儿童趣味编程学习网/README.md) 
+
+<img src="./image/乐乐猫儿童趣味编程学习网/5.jpg" width=280 height=160 />
+<img src="./image/乐乐猫儿童趣味编程学习网/3.jpg" width=280 height=160 />
+<img src="./image/乐乐猫儿童趣味编程学习网/31.jpg" width=280 height=160 />
