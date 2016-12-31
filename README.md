@@ -1,3 +1,4 @@
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 <img src="./image/软件学院.png"/>
 
 #2014级Java方向实训项目展示
