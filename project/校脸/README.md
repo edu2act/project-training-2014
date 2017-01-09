@@ -26,19 +26,19 @@
 ### 项目成员
 
 * 袁音 (项目经理) 
-    * Email: <805991134@qq.com>
+    * Email: <13199980@qq.com>
     * Github : [https://github.com/yuanyin1995](https://github.com/yuanyin1995)
 * 马红岩 (产品经理) 
-    * Email: <805991134@qq.com>
+    * Email: <420454139@qq.com>
     * Github : [https://github.com/Aiome](https://github.com/Aiome)
 * 庄楠 (UI设计、开发工程师) 
-    * Email: <805991134@qq.com>
+    * Email: <405841911@qq.com>
     * Github : [https://github.com/tobewithMayday](https://github.com/tobewithMayday)
 * 刘晔 (开发工程师) 
-    * Email: <805991134@qq.com>
+    * Email: <271737020@qq.com>
     * Github : [https://github.com/liuye326](https://github.com/liuye326)
 * 王丹宇 (	测试工程师) 
-    * Email: <805991134@qq.com>
+    * Email: <791682021@qq.com>
     * Github : [https://github.com/wangdanyu](https://github.com/wangdanyu)
 	
 ### 运行效果
